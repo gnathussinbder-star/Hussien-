@@ -1,0 +1,16 @@
+{
+  "name": "Hussein Badr English",
+  "short_name": "HB English",
+  "description": "منصة حسين بدر لتعلّم الإنجليزية خطوة بخطوة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#102B4C",
+  "icons": [
+    { "src": "assets/hbe-logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

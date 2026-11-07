@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/about.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/certificate.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/contact.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/dashboard.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/exercises.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/faq.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/flashcards.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-10.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-11.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-12.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-13.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-14.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-15.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-16.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-17.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-18.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-2.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-3.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-4.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-5.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-6.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-7.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-8.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-9.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lesson-greetings.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lessons.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/mistakes.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/</loc><priority>1.0</priority></url>
   <url><loc>https://gnathussinbder-star.github.io/Hussien-/paths.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/phrasebook.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/lessons.html</loc></url>
   <url><loc>https://gnathussinbder-star.github.io/Hussien-/placement-test.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/practice.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/privacy.html</loc></url>
-  <url><loc>https://gnathussinbder-star.github.io/Hussien-/resources.html</loc></url>
   <url><loc>https://gnathussinbder-star.github.io/Hussien-/skills-test.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/flashcards.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/exercises.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/dashboard.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/phrasebook.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/mistakes.html</loc></url>
   <url><loc>https://gnathussinbder-star.github.io/Hussien-/study-plan.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/about.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/faq.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/contact.html</loc></url>
+  <url><loc>https://gnathussinbder-star.github.io/Hussien-/privacy.html</loc></url>
   <url><loc>https://gnathussinbder-star.github.io/Hussien-/terms.html</loc></url>
 </urlset>
