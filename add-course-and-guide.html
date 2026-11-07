@@ -1,0 +1,67 @@
+<!-- ===== بداية الإضافة: الكورس + الملف التعليمي =====
+     الصقها داخل index.html قبل وسم الفوتر <footer> (أو قبل </main>)
+     كل التنسيق داخلها، ولا تؤثر على باقي الموقع ===== -->
+<style>
+  .hbx{font-family:inherit;direction:rtl;margin:48px auto;width:min(1100px,100% - 32px);display:grid;gap:20px}
+  .hbx *{box-sizing:border-box}
+  .hbx-card{border-radius:22px;padding:30px;display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+  .hbx-course{background:#F5F7FA;border:1px solid #DCE4EE;color:#102B4C}
+  .hbx-guide{background:#102B4C;color:#fff;border-inline-start:8px solid #FFD447}
+  .hbx-body{flex:1;min-width:240px}
+  .hbx-tag{display:block;font:600 .75rem/1 system-ui,sans-serif;letter-spacing:.14em;color:#1B4F8F;margin:0 0 10px;direction:ltr;text-align:start}
+  .hbx-guide .hbx-tag{color:#FFD447}
+  .hbx h2{margin:0 0 8px;font-size:clamp(1.3rem,3.2vw,1.9rem);line-height:1.4;color:inherit}
+  .hbx p{margin:0 0 14px;line-height:1.9;opacity:.92}
+  .hbx ul{list-style:none;margin:0 0 18px;padding:0;display:grid;gap:6px}
+  .hbx li{padding-inline-start:26px;position:relative}
+  .hbx li::before{content:"✓";position:absolute;inset-inline-start:0;color:#102B4C;background:#FFD447;width:18px;height:18px;border-radius:50%;font-size:.7rem;display:grid;place-items:center;top:.45em}
+  .hbx-btns{display:flex;gap:10px;flex-wrap:wrap}
+  .hbx a.hbx-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 22px;border-radius:13px;font-weight:700;text-decoration:none;border:2px solid transparent;font-size:1rem}
+  .hbx a.hbx-yellow{background:#FFD447;color:#102B4C}
+  .hbx a.hbx-yellow:hover{background:#FFDF73}
+  .hbx a.hbx-line{border-color:rgba(255,255,255,.5);color:#fff}
+  .hbx a.hbx-line:hover{background:rgba(255,255,255,.12)}
+  .hbx-badge{flex:none;width:150px;min-height:150px;border-radius:20px;background:#102B4C;border:3px solid #FFD447;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:14px}
+  .hbx-badge b{font:700 2.6rem/1 system-ui,sans-serif;color:#FFD447}
+  .hbx-badge span{font-size:.92rem}
+  .hbx-icon{flex:none;width:76px;height:76px;border-radius:18px;background:#FFD447;color:#102B4C;display:grid;place-items:center;font-size:2rem}
+  @media (max-width:600px){.hbx-card{padding:22px}.hbx-badge{width:100%}.hbx a.hbx-btn{flex:1;justify-content:center}}
+</style>
+
+<section class="hbx" id="course-and-guide" aria-label="الكورس والملف التعليمي">
+
+  <!-- قسم الكورس -->
+  <div class="hbx-card hbx-course" id="course">
+    <div class="hbx-body">
+      <span class="hbx-tag">FREE COURSE · 31 LECTURES + QUIZ</span>
+      <h2>تعلم اللغة الإنجليزية من تحت الصفر إلى الاحتراف والإتقان</h2>
+      <p>كورس مجاني وشامل للمبتدئين على يوتيوب، يأخذك من أول حرف إلى التحدث بثقة. 31 محاضرة مرتبة بتسلسل واضح، يتبعها اختبار يقيس ما تعلمته، وتشاهدها وتراجعها في أي وقت وبالسرعة التي تناسبك.</p>
+      <ul>
+        <li>مجاني بالكامل، بدون اشتراك أو حساب</li>
+        <li>يبدأ معك من الصفر دون أي خبرة سابقة</li>
+        <li>31 محاضرة فيديو مرتبة خطوة بخطوة</li>
+        <li>اختبار في النهاية لقياس مستواك</li>
+      </ul>
+      <div class="hbx-btns">
+        <a class="hbx-btn hbx-yellow" href="https://youtube.com/playlist?list=PLF-X8-RRV3nA&si=2pDETCc15AAUdg7_" target="_blank" rel="noopener noreferrer">▶ شاهد الكورس على يوتيوب</a>
+      </div>
+    </div>
+    <div class="hbx-badge"><b>31</b><span>محاضرة مجانية<br>+ اختبار</span></div>
+  </div>
+
+  <!-- قسم الملف التعليمي -->
+  <div class="hbx-card hbx-guide" id="guide">
+    <div class="hbx-icon" aria-hidden="true">📄</div>
+    <div class="hbx-body">
+      <span class="hbx-tag">FREE LEARNING GUIDE · PDF</span>
+      <h2>تعلم اللغة الإنجليزية من تحت الصفر إلى الاحتراف والإتقان</h2>
+      <p>الملف التعليمي المرافق للكورس بصيغة PDF: اقرأه على هاتفك أو حمّله واحتفظ به للمراجعة في أي وقت.</p>
+      <div class="hbx-btns">
+        <a class="hbx-btn hbx-yellow" href="https://drive.google.com/file/d/1ZqAtKIiqhbAI9Z8G4Fo19YjUaL3uogT3/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">فتح الملف</a>
+        <a class="hbx-btn hbx-line" href="https://drive.google.com/uc?export=download&id=1ZqAtKIiqhbAI9Z8G4Fo19YjUaL3uogT3" target="_blank" rel="noopener noreferrer">تحميل PDF</a>
+      </div>
+    </div>
+  </div>
+
+</section>
+<!-- ===== نهاية الإضافة ===== -->
