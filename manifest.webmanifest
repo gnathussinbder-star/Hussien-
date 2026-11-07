@@ -1,0 +1,25 @@
+{
+ "name": "Hussein Badr English",
+ "short_name": "HB English",
+ "description": "تعلّم الإنجليزية من الصفر إلى الطلاقة",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#111b3a",
+ "theme_color": "#111b3a",
+ "icons": [
+  {
+   "src": "assets/hbe-logo-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/hbe-logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
